@@ -1,0 +1,91 @@
+body {
+  background-color: #106dc9;
+}
+.bobosi {
+  text-align: center;
+}
+.otasi {
+  display: inline-block;
+  background-color: white;
+  width: 250px;
+  height: 350px;
+  border-radius: 20px;
+}
+.onasi {
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  line-height: 5px;
+  color: #555;
+}
+.katta {
+  text-align: center;
+}
+.dollor {
+  font-size: 30px;
+}
+.rubil {
+  font-size: 14px;
+  color: #555;
+}
+.button {
+  color: blue;
+  text-align: center;
+}
+.bolasi {
+  display: inline-block;
+  background-color: white;
+  width: 250px;
+  height: 350px;
+  border-radius: 20px;
+}
+.ota_shirif {
+  text-align: -webkit-left;
+  list-style-type: circle;
+}
+.qizi {
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  line-height: 5px;
+  color: #555;
+}
+.sum {
+  font-size: 30px;
+}
+.bolasini_bolasi {
+  display: inline-block;
+  background-color: white;
+  width: 250px;
+  height: 350px;
+  border-radius: 20px;
+}
+.qizini_qizi {
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  line-height: 5px;
+  color: #555;
+}
+.yuan {
+  font-size: 30px;
+}
+.utkir {
+  color: black;
+  font-family: bold;
+}
+.xira {
+  color: grey;
+}
+a {
+  text-align: center;
+}
+.button {
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color: blue;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 200px;
+}
